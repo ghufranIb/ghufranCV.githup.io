@@ -1,0 +1,27 @@
+[1206/125750.780:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1206/171516.645:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\USER\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e69fb2eb-375c-4752-a314-7de5aea955a6: The system cannot find the path specified. (0x3)
+[1207/000958.802:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.817:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.849:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.849:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.849:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.849:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1207/000958.849:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000958.849:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000958.802:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.161:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.333:ERROR:exception_snapshot_win.cc(99)] thread ID 13676 not found in process
+[1207/000959.333:ERROR:exception_snapshot_win.cc(99)] thread ID 1716 not found in process
+[1207/000959.333:ERROR:exception_snapshot_win.cc(99)] thread ID 14012 not found in process
+[1207/000959.333:ERROR:exception_snapshot_win.cc(99)] thread ID 6804 not found in process
+[1207/000959.411:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.411:ERROR:exception_snapshot_win.cc(99)] thread ID 11236 not found in process
+[1207/000959.411:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.411:ERROR:exception_snapshot_win.cc(99)] thread ID 17216 not found in process
+[1207/000959.427:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.427:ERROR:exception_snapshot_win.cc(99)] thread ID 17052 not found in process
+[1207/000959.427:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1207/000959.427:ERROR:exception_snapshot_win.cc(99)] thread ID 15132 not found in process
+[1208/024713.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/033332.558:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/033332.636:ERROR:exception_snapshot_win.cc(99)] thread ID 224 not found in process
